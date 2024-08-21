@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ReproLoom and Elysium<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Software development and machine Learning<br>
+🔭 Software developer @Blackswitch Technologies<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Software development and machine Learning<br>
 
 
 ## 🌐 Socials:
